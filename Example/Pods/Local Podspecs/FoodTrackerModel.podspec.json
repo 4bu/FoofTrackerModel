@@ -1,0 +1,19 @@
+{
+  "name": "FoodTrackerModel",
+  "version": "0.1.0",
+  "summary": "A short description of FoodTrackerModel.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/4bu/FoodTrackerModel",
+  "authors": {
+    "4bu": "Anja.Bullin@jochen-schweizer.de"
+  },
+  "source": {
+    "git": "https://github.com/4bu/FoodTrackerModel.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "swift_version": "4.2",
+  "source_files": "FoodTrackerModel/Classes/**/*"
+}
